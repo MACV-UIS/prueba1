@@ -8,5 +8,5 @@ $x = mx + \sum b$
 # DESDE JUANITO
 
 
-# DESDE REMOTO ...the end
+# DESDE REMOTO ...the end not
 
